@@ -1,5 +1,7 @@
+div {
+    display: inline-block;
+}
 img {
     width:170px ;
     height:230px ;
 }
-
